@@ -1,0 +1,24 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+}
+
+canvas {
+    border: 2px solid red;
+}
+
+#resetButton {
+    margin-top: 20px;
+    padding: 4px 42px 4px 42px;
+    border-radius: 10px;
+    background: blue;
+    color: white;
+}
+
+body{
+    background-color: black;
+}
